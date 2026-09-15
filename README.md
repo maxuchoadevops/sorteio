@@ -14,7 +14,7 @@ Projeto simples para praticar a função Math.random() do JavaScript, criando um
 - Validação de entradas (evita valores não numéricos e mínimo maior que máximo)
 
 ## 💻 Como Usar
-Acesse: https://ingridalvesfarias.github.io/dev-sorteio/
+Acesse: https://maxuchoadevops.github.io/dev-sorteio/
 
 
 ## Imagem do projeto
